@@ -18,10 +18,6 @@
     "*.json",
     "*.js"
   ],
-  "dependencies": {
-    "lodash.orderby": "^4.6.0",
-    "lodash.throttle": "^4.1.1"
-  },
   "devDependencies": {
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
