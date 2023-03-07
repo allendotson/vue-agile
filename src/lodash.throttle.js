@@ -436,4 +436,4 @@ function toNumber(value) {
     : (reIsBadHex.test(value) ? NAN : +value);
 }
 
-module.exports = throttle;
+export default throttle;
